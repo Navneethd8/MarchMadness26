@@ -234,8 +234,10 @@ data/
 ._*
 .AppleDouble
 .LSOverride
-Icon
-._Icon
+Icon
+
+._Icon
+
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
@@ -248,4 +250,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+submission.csv
+
+catboost_info/
 
